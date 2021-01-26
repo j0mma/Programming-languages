@@ -1,10 +1,14 @@
 # Disclaimer
 
-I do not own any copyrights authority to this book nor to the questions presented in this book. Contact me directly if there is any copyrights issues and I will automaticly remove the content concerned. 
+I do not own any copyrights authority to this book and to the questions presented in this book. The answers presented here are all written by me. Contact me directly if there is any copyrights issues and I will automaticly remove the content concerned. 
 
-# Contents
+### Programming in C 4th Edition by Stephen G. Kochan
 
-This folder contains only my personal answers for each chapters problem contained the book.
+#### List of contents
+
+* [Chapter 2](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2)
+
+
 
 
 
