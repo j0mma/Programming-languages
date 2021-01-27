@@ -1,4 +1,8 @@
-//Chapter 2 : Ecercise 2-5
+/*!****************************************************************************
+ * @file Exercise2-5.c
+ * @brief Answer to exercise 5 from chapter 2.
+******************************************************************************/
+
 
 #include <stdio.h>
 
@@ -6,10 +10,10 @@ int main(void)
 {
 	int sum;
 	
-	/* COMPUTE RESULT */
+	// Compute result
 	sum = 25 + 37 - 19;
 	
-	/* DISPLAY RESULT */
+	// Display result
 	printf("The answer is %i\n", sum);
 
 	return 0;
