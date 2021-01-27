@@ -6,7 +6,7 @@ I do not own any copyrights authority to this book and to the questions presente
 
 #### List of contents
 
-* [Chapter 2](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2)
+* [Chapter 2](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2) : Compiling and Running Your First Program
 
 
 
