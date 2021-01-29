@@ -12,7 +12,7 @@
 
 * [Exercise 7](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap4/Exercise4-7.c)
 
-* [Exercise 8](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap4/Exercise4-8.c)i
+* [Exercise 8](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap4/Exercise4-8.c)
 
 * [Exercise 9a](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap4/Exercise4-9a.c)
 
