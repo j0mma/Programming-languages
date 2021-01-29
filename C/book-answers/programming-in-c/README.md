@@ -15,6 +15,8 @@ I do not own any copyrights authority to this book and to the questions presente
 
 * [Chapter 3](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap3) : Variables, Data Types, and Arithmetic Expressions
 
+* [Chapter 4](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap4) : Program Looping
+
 
 
 
