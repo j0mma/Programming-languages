@@ -8,6 +8,6 @@
 
 * [Exercise 7](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-7.c)
 
-* [Exercise 9](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-9.c)
+* [Exercise 9](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-9.c)  
 
 
