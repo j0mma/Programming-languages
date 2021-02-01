@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program2-6.c
+ * @brief Using comments
+******************************************************************************/
 /* This program adds two integer values and displas the results */
 
 #include <stdio.h>
