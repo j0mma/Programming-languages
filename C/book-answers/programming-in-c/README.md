@@ -11,18 +11,18 @@ I do not own any copyrights authority to this book and to the questions presente
 
 # List of contents
 
-1. [Chapter 2](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2) : Compiling and Running Your First Program
-  * [Program 2.1](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-1.c) : Writing your first C program
-  * [Program 2.2](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-2.c) : Programming is fun
-  * [Program 2.3](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-3.c) : Displaying multiple lines of output
-  * [Program 2.4](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-4.c) : Displaying variables
-  * [Program 2.5](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-5.c) : Displaying multiple values
-  * [Program 2.6](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-6.c) : Using comments in a program
+1. [Chapter 2](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2) - Compiling and Running Your First Program
+  * [Program 2.1](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-1.c): Writing your first C program
+  * [Program 2.2](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-2.c): Programming is fun
+  * [Program 2.3](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-3.c): Displaying multiple lines of output
+  * [Program 2.4](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-4.c): Displaying variables
+  * [Program 2.5](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-5.c): Displaying multiple values
+  * [Program 2.6](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-1/Program2-6.c): Using comments in a program
   * [Exercices](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2) 
 
-2. [Chapter 3](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap3) : Variables, Data Types, and Arithmetic Expressions
+2. [Chapter 3](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap3) - Variables, Data Types, and Arithmetic Expressions
 
-3. [Chapter 4](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap4) : Program Looping
+3. [Chapter 4](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap4) - Program Looping
 
 
 
