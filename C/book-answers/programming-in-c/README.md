@@ -4,7 +4,7 @@ I do not own any copyrights authority to this book and to the questions presente
 
 > **Title:** Programming in C, 4th Edition 
 
-> **Author:**  Stephen G. Kochan \n
+> **Author:**  Stephen G. Kochan\n
 > **ISBN-13:**  978-0-321-77641-9 
 > **ISBN-10:**  0-321-77641-0
 
