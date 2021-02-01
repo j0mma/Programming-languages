@@ -1,4 +1,4 @@
-### Chapter 2: Compiling and Running Your First Program
+### Chapter 2 - Compiling and Running Your First Program
 
 #### List of exercises :
 
