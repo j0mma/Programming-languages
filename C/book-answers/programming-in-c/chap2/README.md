@@ -7,7 +7,7 @@
 3. [Exercise 3](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-3.c)
 4. [Exercise 4](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-4.c)
 5. [Exercise 5](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-5.c)
-6. [Exercise 6](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-6.c)
+6. [Exercise 6](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap2/Exercise2-6.c)  
 
 
 
