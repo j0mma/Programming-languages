@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program3-3.c
+ * @brief More examples with the arithmetic operators
+******************************************************************************/
 // More arithmetic expressions
 
 #include <stdio.h>
