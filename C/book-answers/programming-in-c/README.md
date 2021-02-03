@@ -22,7 +22,7 @@ I do not own any copyrights authority to this book and to the questions presente
     7. [Exercices](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap2) 
 
 2. [Chapter 3](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap3) - Variables, Data Types, and Arithmetic Expressions
-    1. [Program 3.1](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-1/Program3-1a.c): Using basic data types
+    1. [Program 3.1](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-1/Program3-1b.c): Using basic data types
     2. [Program 3.2](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-1/Program3-2.c): Using the arithmetic operators 
     3. [Program 3.3](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-1/Program3-3.c): More examples with the arithmetic operators
     4. [Program 3.4](https://github.com/j0mma/programming-languages/blob/main/C/book-answers/programming-in-c/chap3/Exercise3-1/Program3-4.c): Illustrating the modulus operator
