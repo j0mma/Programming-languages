@@ -16,7 +16,7 @@ int main(void)
 	result = b * c;			//Multiplication
 	printf("b * c = %i\n", result);
 
-	result = a / c; 			//Division
+	result = a / c; 		//Division
 	printf("a / c = %i\n", result);
 
 	result = a + b * c; 		//Precedence
