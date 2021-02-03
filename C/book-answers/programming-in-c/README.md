@@ -30,6 +30,9 @@ I do not own any copyrights authority to this book and to the questions presente
     6. [Exercices](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap3) 
 
 3. [Chapter 4](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap4) - Program Looping
+4. [Chapter 5](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap5) - Making Decisions
+5. [Chapter 6](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap6) - Working with Arrays
+6. [Chapter 7](https://github.com/j0mma/programming-languages/tree/main/C/book-answers/programming-in-c/chap7) - Working with Functions
 
 
 
