@@ -1,4 +1,4 @@
-### Chapter 3: Variables, Data Types, and Arithmetic Expressions
+### Chapter 3 - Variables, Data Types, and Arithmetic Expressions
 
 #### List of exercises :
 
