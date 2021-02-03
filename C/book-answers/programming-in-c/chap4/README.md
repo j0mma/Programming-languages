@@ -1,4 +1,4 @@
-### Chapter 4: Program Looping
+### Chapter 4 - Program Looping
 
 #### List of exercises :
 
