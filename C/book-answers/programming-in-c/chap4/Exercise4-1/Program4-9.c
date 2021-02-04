@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-1.c
+ * @brief Implementing a revised program to reverse the digit of a number
+******************************************************************************/
 // Program to reverse the digits of a number 
 
 #include <stdio.h>
