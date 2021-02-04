@@ -1,7 +1,8 @@
 /*!****************************************************************************
  * @file Program3-1.c
- * @brief Using basic variable data types
+ * @brief Using basic data types
 ******************************************************************************/
+
 #include <stdio.h>
 
 int main(void)
