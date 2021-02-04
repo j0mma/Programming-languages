@@ -1,5 +1,9 @@
-/* Program to calculate the 200th triangular number
- * Introduction of the for statement			*/
+/*!****************************************************************************
+ * @file Program4-2.c
+ * @brief Calculating the 200th triangular number
+******************************************************************************/
+/* Program to calculate the 200th triangular number */ 
+/* Introduction of the for statement */
 
 #include <stdio.h>
 
