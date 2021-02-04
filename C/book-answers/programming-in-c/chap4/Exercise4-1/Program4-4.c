@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-4.c
+ * @brief Asking the user for input
+******************************************************************************/
 // Program to calculate the nth triangular number
 
 #include <stdio.h>
