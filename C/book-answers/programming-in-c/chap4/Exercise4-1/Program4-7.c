@@ -1,5 +1,8 @@
-/* Program to find the greatest common divisor 
- * of two nonnegative integer values */
+/*!****************************************************************************
+ * @file Program4-7.c
+ * @brief Finding the greatest common divisor
+******************************************************************************/
+/* Program to find the greatest common divisor of two nonnegative integer values */
 
 #include <stdio.h>
 
