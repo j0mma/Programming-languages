@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-5.c
+ * @brief Using nested for loops
+******************************************************************************/
 // Program to calculate the nth triangular number with counter
 
 #include <stdio.h>
