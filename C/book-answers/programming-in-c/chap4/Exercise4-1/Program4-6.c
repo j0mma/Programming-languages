@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-6.c
+ * @brief Introducing the while statement
+******************************************************************************/
 // Program to introduce the while statement 
 
 #include <stdio.h>
