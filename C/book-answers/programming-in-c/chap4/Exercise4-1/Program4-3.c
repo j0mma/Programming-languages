@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-3.c
+ * @brief Generating a table of triangular number
+******************************************************************************/
 // Program to generate a table of Triangular Numbers
 
 #include <stdio.h>
