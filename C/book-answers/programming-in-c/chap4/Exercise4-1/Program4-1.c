@@ -1,3 +1,7 @@
+/*!****************************************************************************
+ * @file Program4-1.c
+ * @brief Calculating the eighth triangular number
+******************************************************************************/
 //Program to calculate the eighth triangular Number
 
 #include <stdio.h>
