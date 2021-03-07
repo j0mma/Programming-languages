@@ -1,0 +1,20 @@
+# Disclaimer
+
+I do not own any copyrights to this book and to the questions presented in this book. The answers presented here are all written by me. Contact me directly if there is any copyrights issues and I will automatically remove the content concerned.  
+
+ **Title:**     Book Title <br>
+ **Authors:**   Authors names <br>
+ **ISBN**       ISBN <br>
+ **ISBN**       ISBN 
+
+## List of contents
+
+Chapter 1. <br>
+Chapter 2. <br>
+Chapter 3. <br>
+Chapter 4. <br>
+Chapter 5. <br>
+Chapter 6. <br>
+Chapter 7. <br>
+Chapter 8. <br>
+
