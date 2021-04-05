@@ -9,7 +9,7 @@ I do not own any copyrights to this book and to the questions presented in this 
 
 ## List of contents
 
-Chapter 1. A Tutorial Introduction <br>
+[Chapter 1.](https://github.com/j0mma/Programming-languages/tree/main/C/book-answers/The%20C%20Programming%20Language/Chapter%201) A Tutorial Introduction <br>
 Chapter 2. Types, Operators, and Expressions <br>
 Chapter 3. Control Flow <br>
 Chapter 4. Functions and Program Structure <br>
