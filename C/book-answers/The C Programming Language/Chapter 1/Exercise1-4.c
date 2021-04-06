@@ -1,3 +1,8 @@
+/******************************************************************************! 
+*\brief  Answer to Exercise 1-4.c
+*           Celsius to Fahreinheit conversion table.
+*@file   Exercise1-4.c
+*******************************************************************************/
 #include <stdio.h>
 
 /* print Celsius-Fahrenheit table
