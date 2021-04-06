@@ -1,3 +1,8 @@
+/******************************************************************************! 
+*\brief  Answer to Exercise 1-3.c
+*           Temperature conversion table with heading..
+*@file   Exercise1-3.c
+*******************************************************************************/
 #include <stdio.h>
 
 /* print Fahrenheit-Celsius table
