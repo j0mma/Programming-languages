@@ -7,10 +7,10 @@ main()
     
     while ((c = getchar()) != EOF) {
         if (c == ' ')
-            ++num_blanks;   /* increment counter when blanks encountered */
+            ++num_blanks;   /* increment counter when blank encountered */
         
         while (num_blanks > 1) {
-            putchar('\b');  /* delete blanks with backspace when lanks are more than one */
+            putchar('\b');  /* delete blank with backspace when more than one */
             --num_blanks;
         }
 
